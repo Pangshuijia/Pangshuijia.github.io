@@ -1,27 +1,20 @@
-## Welcome to GitHub Pages
+## 庞水佳的博客，欢迎您！----
 
-You can use the [editor on GitHub](https://github.com/Pangshuijia/Pangshuijia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+您可以使用[GitHub上的编辑器]
 
-### Markdown
+庞水佳的博客，欢迎您！----
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 主页
+# 生活tip
+# 学习中心
+- 联系人
+- 姓名
 
-```markdown
-Syntax highlighted code block
+1. 联系电话
+2. 时间
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**title** 
 
 [Link](url) and ![Image](src)
 ```
