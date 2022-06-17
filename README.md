@@ -14,17 +14,89 @@
 1. 联系电话
 2. 时间
 
-**title** 
+**古诗词鉴赏** 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pangshuijia/Pangshuijia.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contactv
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###1、《登高》
+【唐】杜甫
+风急天高猿啸哀，渚清沙白鸟飞回。
+无边落木萧萧下，不尽长江滚滚来。
+万里悲秋常作客，百年多病独登台。
+艰难苦恨繁霜鬓，潦倒新亭浊酒杯。
+###2、《黄鹤楼》
+【唐】崔颢
+昔人已乘黄鹤去，此地空余黄鹤楼。
+黄鹤一去不复返，白云千载空悠悠。
+晴川历历汉阳树，芳草凄凄鹦鹉洲。
+日暮乡关何处是，烟波江上使人愁。
+###3、《锦瑟》
+【唐】李商隐
+锦瑟无端五十弦，一弦一柱思华年。
+庄生晓梦迷蝴蝶，望帝春心托杜鹃。
+沧海月明珠有泪，蓝田日暖玉生烟。
+此情可待成追忆，只是当时已惘然。
+###4、《登金陵凤凰台》
+【唐】李白
+凤凰台上凤凰游，凤去台空江自流。
+吴宫花草埋幽径，晋代衣冠成古丘。
+三山半落青天外，二水中分白鹭洲。
+总为浮云能蔽日，长安不见使人愁。
+###5、《蜀相》
+【唐】杜甫
+丞相祠堂何处寻，锦官城外柏森森。
+映阶碧草自春色，隔叶黄鹂空好音。
+三顾频烦天下计，两朝开济老臣心。
+出师未捷身先死，常使英雄泪满襟。
+###6、《无题》
+【唐】李商隐
+相见时难别亦难，东风无力百花残。
+春蚕到死丝方尽，蜡炬成灰泪始干。
+晓镜但愁云鬓改，夜吟应觉月光寒。
+蓬山此去无多路，青鸟殷勤为探看。
+###7、《阁夜》
+【唐】杜甫
+岁暮阴阳催短景，天涯霜雪霁寒宵。
+五更鼓角声悲壮，三峡星河影动摇。
+野哭千家闻战伐，夷歌数处起渔樵。
+卧龙跃马终黄土，人事音书漫寂寥。
+###8、《客至》
+【唐】杜甫
+舍南舍北皆春水，但见群鸥日日来。
+花径不曾缘客扫，蓬门今始为君开。
+盘餐市远无兼味，樽酒家贫只旧醅。
+肯与邻翁相对饮，隔篱呼取尽馀杯。
+###9、《闻官军收河南河北》
+【唐】杜甫
+剑外忽传收蓟北，初闻涕泪满衣裳。
+却看妻子愁何在，漫卷诗书喜欲狂。
+白首放歌须纵酒，青春作伴好还乡。
+即从巴峡穿巫峡，便下襄阳向洛阳。
+###10、《无题》
+【唐】李商隐
+昨夜星辰昨夜风，画楼西畔桂堂东。
+身无彩凤双飞翼，心有灵犀一点通。
+隔座松钩春酒暖，分曹射覆蜡灯红。
+嗟余听鼓应官去，走马兰台类转蓬。
+###11、《无题》
+【唐】李商隐
+飒飒东风西雨来，芙蓉塘外有轻雷。
+金蟾啮锁烧香入，玉虎牵丝汲井回。
+贾氏窥帘韩椽少，宓妃留枕魏王才。
+春心莫共花争发，一寸相思一寸灰。
+###12、《杜工部座中离席》
+【唐】李商隐
+人生何处不离群，世路干戈惜暂分。
+雪岭未归天外使，松州犹驻殿前军。
+座中醉客延醒客，江上晴云杂雨云。
+美酒成都堪送老，当垆仍是卓文君。
+###13、《西塞山怀古》
+【唐】刘禹锡
+王濬楼船下益州，金陵王气黯然收。
+千寻铁锁沉江底，一片降幡出石头。
+人世几回伤往事，山形依旧枕寒流。
+今逢四海为家日，故垒萧萧芦荻秋。
+###14、《望蓟门》
+【唐】祖咏
+燕台一去客心惊，笳鼓喧喧汉将营。
+万里寒光生积雪，三边曙色动危旌。
+沙场烽火侵胡月，海畔云山拥蓟城。
+少小虽非投笔吏，论功还欲请长缨。
